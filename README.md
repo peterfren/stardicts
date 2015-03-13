@@ -1,4 +1,4 @@
 stardicts
 =========
 
-Dictionarys for Stardict.
+Dictionaries for Stardict.
